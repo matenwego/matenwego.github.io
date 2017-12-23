@@ -2,3 +2,9 @@
     background-color: #000000;
     color:#fff
 }  */
+
+.dark-overlay{
+    background-color: #000000;
+    opacity: 0.50;
+    color: #ffffff;
+}
